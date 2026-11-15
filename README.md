@@ -16,3 +16,7 @@ We combined two datasets: butterfly observations data and Google Trends data. Th
 
 # Tools
 Python, pandas, scikit-learn, JupterNotebook
+
+# Contributors
+
+Completed with Caleb Wolf 
