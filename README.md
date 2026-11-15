@@ -7,13 +7,12 @@ This project finds which factors affect butterfly observation counts and builds 
 # Data
 We combined two datasets: butterfly observations data and Google Trends data. The value we predicted is count which is the number of butterflies observed.
 
-# What We Did 
-  * Started with a baseline model to compare
-  * Built linear regression models 
-  * Created new features from the existing data to improve our results
-  * Checked which features were most important to butterfly counts
+# Approach
+  * Built a constant baseline model to compare against
+  * Built simple linear regression, multi-feature, and feature engineered regression models
+  * Ran correlation analysis to see which features were important to butterfly counts
   * Used Ridge and Lasso regularization to reduce overfitting
-  * Compared all the models side by side to find the best one
+  * Compared all models in result table to see which preformed the best
 
 # Tools
 Python, pandas, scikit-learn, JupterNotebook
