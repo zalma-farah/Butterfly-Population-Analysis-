@@ -2,7 +2,7 @@
 Analyzing and predicting butterfly observation counts across the region using Google Trends dataset, linear regression, feature engineering, and ridge/lasso regularization.  
 
 # Overview
-This project finds which factors affect butterfly observation counts and builds models to predict them. The project was completed in four phases. 
+This project finds which factors affect butterfly observation counts and builds models to predict them. The project was completed in multiple phases, starting with a baseline model and building up to models with engineered features and regularization. 
 
 # Data
 We combined two datasets: butterfly observations data and Google Trends data. The value we predicted is count which is the number of butterflies observed.
